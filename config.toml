@@ -1,4 +1,4 @@
 baseURL = "https://www.biangduang.com"
 languageCode = "en-us"
 title = "BaingDuang"
-theme = "hugo-paper"
+theme = "hugo-paper-master"
