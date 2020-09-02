@@ -51,4 +51,4 @@ jobs:
         password: ${{ secrets.ALIYUN_PASSWORD }}
         port: ${{ secrets.DC_PORT }}
         source: "./public"
-        target: "/www/wwwroot/www.biangduang.com"
+        target: "/www/wwwroot/www.biangduang.com/"
